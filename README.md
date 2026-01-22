@@ -70,3 +70,18 @@ cd Geethma-Abeywickrama-Portfolio-React-
 
 Step 2: Install Dependencies
 npm install
+
+After running the command, open your browser and visit:
+
+http://localhost:5173
+
+Step 3: Run the Project Locally
+npm run dev
+
+🏗 Step 4: Build for Production (Optional)
+npm run build
+
+The production-ready files will be generated inside the dist folder.
+
+👀 Step 5: Preview Production Build (Optional)
+npm run preview
