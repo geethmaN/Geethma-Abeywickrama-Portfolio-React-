@@ -28,7 +28,6 @@ It showcases my projects, skills, and experience in modern web development with 
 - React
 - Vite
 - JavaScript (ES6+)
-- Tailwind CSS
 - Framer Motion
 - HTML5 & CSS3
 
@@ -64,7 +63,7 @@ Make sure you have the following installed on your system:
 git clone https://github.com/geethmaN/Geethma-Abeywickrama-Portfolio-React-.git
 
 
-Navigate into the project folder:
+Step 1 :Navigate into the project folder:
 
 cd Geethma-Abeywickrama-Portfolio-React-
 
